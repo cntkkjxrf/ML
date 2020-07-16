@@ -1,4 +1,5 @@
 Обучаю на отзывах к фильмам модель doc2vec, чтобы потом предсказывать тональность отзыва (позитивный или негативный) по его тексту.
 Practice.ipynb - код для этого.
+Данные, на которых проверялся код, можно скачать здесь: https://github.com/nvanva/filimdb_evaluation/blob/master/FILIMDB.tar.gz
 
-Суть задания можно найти здесь https://github.com/nvanva/filimdb_evaluation.
+
